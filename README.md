@@ -5,4 +5,4 @@ This repository is the course materials for *Natural Language Processing and App
 ## Course Information
 | Week | Theme | Slide | Slido |
 | --- | --- | --- | --- |
-|1| Introduction to Natural Language Processing / Syllabus | [`Slide`](./slides/NLP_intro_0217.pdf) | [`Slido`](https://app.sli.do/event/pd5eZF7FvAQzuCXz7D46wQ) |
+|1| Introduction to Natural Language Processing / Syllabus | [`.pdf`](./slides/NLP_intro_0217.pdf) [`.pptx`](./slides/NLP_intro_0217.pptx) | [`Slido`](https://app.sli.do/event/pd5eZF7FvAQzuCXz7D46wQ) |
