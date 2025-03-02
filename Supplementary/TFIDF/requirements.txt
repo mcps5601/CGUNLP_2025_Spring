@@ -1,0 +1,9 @@
+ipywidgets==7.7.2
+tqdm==4.65.0
+numpy==1.23.5
+pandas==2.0.0
+pandarallel==1.6.4
+scikit-learn==1.2.2
+jieba==0.42.1
+TCSP==0.0.9
+black==23.3.0
