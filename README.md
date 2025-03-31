@@ -11,7 +11,7 @@ This repository is the course materials for *Natural Language Processing and App
 | 4 | RNN | [`.pdf`](./slides/rnn_0310.pdf) [`PyTorch`](./slides/pytorch_0310.pdf) | [`PyTorch`](./code/pytorch_tutorial.ipynb) |[`Slido`](https://app.sli.do/event/rYU6Q8eJRYXuL6QvhXB5UN) | [`Video1`](https://youtu.be/QhyqYO-NP3w) [`Video2`](https://youtu.be/0A0eA27yml0) [`Video3`](https://youtu.be/FGJSGAt_9Ks) |
 | 5 | Attention and Subword | [`.pdf`](./slides/attn_subword_0317.pdf) [`PyTorch`](./slides/pytorch_modeling_0317.pdf) | [`中文分類`](./code/NN_中文文本分類.ipynb) |[`Slido`](https://app.sli.do/event/9x1SLTu8JzeXof41hAqvtR) | 抱歉影片沒有錄到聲音🧎 |
 | 6 | Transformers | [`.pdf`](./slides/transformers_0324.pdf) |  |[`Slido`](https://app.sli.do/event/kS3DXPQiCZRE7ibVwgZKy4) | [`Video1`](https://youtu.be/qt_-3EMEcBQ?si=yA6mGA-sD4l_lvoM) [`Video2`](https://youtu.be/hyw_yg5gNJc) [`Video3`](https://youtu.be/UmIoUHLArTc) | [`HW2 Link`](https://docs.google.com/presentation/d/18gotfkUzPmb4M-HxiRX2qi_m9et-SWtSp2Gt3r5Krfk/edit?usp=sharing)|
-| 7 | BERT and its Family / Decoding Strategies | [`.pdf1`](./slides/bert_and_family_0331.pdf) | | [`Slido`](https://app.sli.do/event/9gcGDu93J9rFY1s5xvoFEX) |
+| 7 | BERT and its Family / Decoding Strategies | [`BERT`](./slides/bert_and_family_0331.pdf) [`Decoding`](./slides/decoding.pdf)| | [`Slido`](https://app.sli.do/event/9gcGDu93J9rFY1s5xvoFEX) |
 
 ## 分組
 - [表單連結 (一組填寫一次)](https://docs.google.com/forms/d/e/1FAIpQLSf_T46q5aIUokf6e5m9EGnB6OWCoWA4UKDRQx4W14y0vog59g/viewform?usp=sharing)
