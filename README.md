@@ -3,15 +3,15 @@
 This repository is the course materials for *Natural Language Processing and Applications* at Chang Gung University, in the academic year 113 (Spring).
 
 ## Course Information
-| Week | Theme | Slide | Code | Slido | Video | Homework |
+| Week | Theme | Slide | Code | Slido | Video | Practice |
 | --- | --- | --- | --- | --- | --- | --- |
 |1| Introduction to Natural Language Processing / Syllabus | [`.pdf`](./slides/NLP_intro_0217.pdf) | | [`Slido`](https://app.sli.do/event/pd5eZF7FvAQzuCXz7D46wQ) | [`Video2`](https://youtu.be/9voHhRK1W1U) [`Video3`](https://youtu.be/ux8onH0wmCU) |
 |2| 統計語言模型與基本詞向量方法 | [`.pdf`](./slides/statistical_0224.pdf) | |[`Slido`](https://app.sli.do/event/c93VZGKnEh3BxXzckHypMY) | [`Video1`](https://youtu.be/acmtH0k0n1k) [`Video2`](https://youtu.be/qrmrZYpvQmk) [`Video3`](https://youtu.be/CXNzGj56of4) |
 | 3 | 詞嵌入方法 | [`.pdf`](./slides/word2vec_0303.pdf) | [`TFIDF`](./Supplementary/TFIDF) | [`Slido`](https://app.sli.do/event/5Pty6pctAniYZQGirUQcnt) | [`Video1`](https://youtu.be/5qz0z_Sjffs?si=6g7i8AfL0M53qAnU) [`Video2`](https://youtu.be/T3hM_zHqozI?si=vlPCtoE3Sr74z2Cv) [`Video3`](https://youtu.be/rRgQ0XVyBlk?si=sRPZdBXjsBnXfEYX) | [`HW1 Link`](https://docs.google.com/presentation/d/1fxTSUMlXLX9_gVuaFkbvInhArjbsZPZhgg7nqxalmFk/edit?usp=sharing) |
-| 4 | RNN | [`.pdf`](./slides/rnn_0310.pdf) [`PyTorch`](./slides/pytorch_0310.pdf) | [`PyTorch`](./code/pytorch_tutorial.ipynb) |[`Slido`](https://app.sli.do/event/rYU6Q8eJRYXuL6QvhXB5UN) | [`Video1`](https://youtu.be/QhyqYO-NP3w) [`Video2`](https://youtu.be/0A0eA27yml0) [`Video3`](https://youtu.be/FGJSGAt_9Ks) |
+| 4 | RNN | [`.pdf`](./slides/rnn_0310.pdf) [`PyTorch`](./slides/pytorch_0310.pdf) | [`PyTorch`](./code/pytorch_tutorial.ipynb) |[`Slido`](https://app.sli.do/event/rYU6Q8eJRYXuL6QvhXB5UN) | [`Video1`](https://youtu.be/QhyqYO-NP3w) [`Video2`](https://youtu.be/0A0eA27yml0) [`Video3`](https://youtu.be/FGJSGAt_9Ks) | [`Quiz`](./quizzes/w4.md) |
 | 5 | Attention and Subword | [`.pdf`](./slides/attn_subword_0317.pdf) [`PyTorch`](./slides/pytorch_modeling_0317.pdf) | [`中文分類`](./code/NN_中文文本分類.ipynb) |[`Slido`](https://app.sli.do/event/9x1SLTu8JzeXof41hAqvtR) | 抱歉影片沒有錄到聲音🧎 |
 | 6 | Transformers | [`.pdf`](./slides/transformers_0324.pdf) |  |[`Slido`](https://app.sli.do/event/kS3DXPQiCZRE7ibVwgZKy4) | [`Video1`](https://youtu.be/qt_-3EMEcBQ?si=yA6mGA-sD4l_lvoM) [`Video2`](https://youtu.be/hyw_yg5gNJc) [`Video3`](https://youtu.be/UmIoUHLArTc) | [`HW2 Link`](https://docs.google.com/presentation/d/18gotfkUzPmb4M-HxiRX2qi_m9et-SWtSp2Gt3r5Krfk/edit?usp=sharing)|
-| 7 | BERT and its Family / Decoding Strategies | [`BERT`](./slides/bert_and_family_0331.pdf) [`Decoding`](./slides/decoding.pdf)| | [`Slido`](https://app.sli.do/event/9gcGDu93J9rFY1s5xvoFEX) | [`Video1`](https://youtu.be/WiEWBQJ46nA) [`Video2`](https://youtu.be/ktnUrTik_ps) [`Video3`](https://youtu.be/4WOiFqKnWXc) |
+| 7 | BERT and its Family / Decoding Strategies | [`BERT`](./slides/bert_and_family_0331.pdf) [`Decoding`](./slides/decoding.pdf)| | [`Slido`](https://app.sli.do/event/9gcGDu93J9rFY1s5xvoFEX) | [`Video1`](https://youtu.be/WiEWBQJ46nA) [`Video2`](https://youtu.be/ktnUrTik_ps) [`Video3`](https://youtu.be/4WOiFqKnWXc) | [`Quiz`](./quizzes/w7.md) |
 
 
 
