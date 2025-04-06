@@ -12,6 +12,7 @@ This repository is the course materials for *Natural Language Processing and App
 | 5 | Attention and Subword | [`.pdf`](./slides/attn_subword_0317.pdf) [`PyTorch`](./slides/pytorch_modeling_0317.pdf) | [`中文分類`](./code/NN_中文文本分類.ipynb) |[`Slido`](https://app.sli.do/event/9x1SLTu8JzeXof41hAqvtR) | 抱歉影片沒有錄到聲音🧎 |
 | 6 | Transformers | [`.pdf`](./slides/transformers_0324.pdf) |  |[`Slido`](https://app.sli.do/event/kS3DXPQiCZRE7ibVwgZKy4) | [`Video1`](https://youtu.be/qt_-3EMEcBQ?si=yA6mGA-sD4l_lvoM) [`Video2`](https://youtu.be/hyw_yg5gNJc) [`Video3`](https://youtu.be/UmIoUHLArTc) | [`HW2 Link`](https://docs.google.com/presentation/d/18gotfkUzPmb4M-HxiRX2qi_m9et-SWtSp2Gt3r5Krfk/edit?usp=sharing)|
 | 7 | BERT and its Family / Decoding Strategies | [`BERT`](./slides/bert_and_family_0331.pdf) [`Decoding`](./slides/decoding.pdf)| | [`Slido`](https://app.sli.do/event/9gcGDu93J9rFY1s5xvoFEX) | [`Video1`](https://youtu.be/WiEWBQJ46nA) [`Video2`](https://youtu.be/ktnUrTik_ps) [`Video3`](https://youtu.be/4WOiFqKnWXc) | [`Quiz`](./quizzes/w7.md) |
+| 8 | Midterm Exam | [`Project Introduction`](./slides/projects_0407.pdf)| | [`Slido`](https://app.sli.do/event/xeUDohzq9CjnDRkF76dmaK) |  |  |
 
 
 
