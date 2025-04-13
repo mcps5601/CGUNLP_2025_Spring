@@ -15,7 +15,7 @@ This repository is the course materials for *Natural Language Processing and App
 | 6 | Transformers | [`.pdf`](./slides/transformers_0324.pdf) |  |[`Slido`](https://app.sli.do/event/kS3DXPQiCZRE7ibVwgZKy4) | [`Video1`](https://youtu.be/qt_-3EMEcBQ?si=yA6mGA-sD4l_lvoM) [`Video2`](https://youtu.be/hyw_yg5gNJc) [`Video3`](https://youtu.be/UmIoUHLArTc) | [`HW2 Link`](https://docs.google.com/presentation/d/18gotfkUzPmb4M-HxiRX2qi_m9et-SWtSp2Gt3r5Krfk/edit?usp=sharing)|
 | 7 | BERT and its Family / Decoding Strategies | [`BERT`](./slides/bert_and_family_0331.pdf) [`Decoding`](./slides/decoding.pdf)| | [`Slido`](https://app.sli.do/event/9gcGDu93J9rFY1s5xvoFEX) | [`Video1`](https://youtu.be/WiEWBQJ46nA) [`Video2`](https://youtu.be/ktnUrTik_ps) [`Video3`](https://youtu.be/4WOiFqKnWXc) | [`Quiz`](./quizzes/w7.md) |
 | 8 | Midterm Exam | [`Project Introduction`](./slides/projects_0407.pdf)| | [`Slido`](https://app.sli.do/event/xeUDohzq9CjnDRkF76dmaK) | [`Video`](https://youtu.be/Z9uEWEShZ2Y)  |  |
-
+| 9 | Hugging Face Tutorial (I) | | | [`Slido`](https://app.sli.do/event/d3kyFGDn1FoYn7KcPD9pB3) | |[`HW3 Link`](https://docs.google.com/presentation/d/1ifPzhEX7a0TMC-Pt09aYHwfL8nCgzXkdMtY-zy9P4e4/edit?usp=sharing) | 
 
 
 ## 分組
