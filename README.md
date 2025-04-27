@@ -17,6 +17,7 @@ This repository is the course materials for *Natural Language Processing and App
 | 8 | Midterm Exam | [`Project Introduction`](./slides/projects_0407.pdf)| | [`Slido`](https://app.sli.do/event/xeUDohzq9CjnDRkF76dmaK) | [`Video`](https://youtu.be/Z9uEWEShZ2Y)  |  |
 | 9 | Hugging Face Tutorial (I) | [`HF_BERT`](./slides/huggingface_bert.pptx) | [`HF_BERT`](./code/bert_huggingface.ipynb)  | [`Slido`](https://app.sli.do/event/d3kyFGDn1FoYn7KcPD9pB3) | [`Video1`](https://youtu.be/tUO-XqMmWPU) [`Video2`](https://youtu.be/KxIwjub6tZc) [`Video3`](https://youtu.be/qKS1PH4XBoE) |[`HW3 Link`](https://docs.google.com/presentation/d/1ifPzhEX7a0TMC-Pt09aYHwfL8nCgzXkdMtY-zy9P4e4/edit?usp=sharing) | 
 | 10 | GPT-3, InstructGPT, and RLHF | [`Decoding_v2`](./slides/decoding_v2.pdf) [`Evaluation`](./slides/NLG_evaluations.pdf) [`GPT`](./slides/GPT3_InstructGPT_RLHF_0421.pdf) [`Kubeflow`](./slides/kubeflow使用說明.pptx)| |[`Slido`](https://app.sli.do/event/cgV1ukEY9BdrYvrQHVoMb9) |  [`Video1`](https://youtu.be/ZH89hwFNf-4) [`Video2`](https://youtu.be/C0RtxIfSECo) [`Video3`](https://youtu.be/5QkvKqQN1Zw) [`Kubeflow`](https://youtu.be/_pj1jv8SuiQ)| [`Quiz`](./quizzes/w10.md)|
+| 11 | Hugging Face Tutorial (II) | [`.pdf`](./slides/huggingface2_0428.pdf) | [`GPT2 (PyTorch)`](./code/gpt2_summarization.ipynb) [`T5 (Trainer)`](./code/t5_summarization.ipynb) |[`Slido`](https://app.sli.do/event/mhd9ZJzYqE2qMhyv5wXb6P) |
 
 ## 分組
 - [表單連結 (一組填寫一次)](https://docs.google.com/forms/d/e/1FAIpQLSf_T46q5aIUokf6e5m9EGnB6OWCoWA4UKDRQx4W14y0vog59g/viewform?usp=sharing)
