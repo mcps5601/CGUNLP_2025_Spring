@@ -1,0 +1,8 @@
+system:
+  general: "You are an expert at Natural Language Inference (NLI). Your task is to analyze two pieces of text - a premise and a hypothesis - and classify them into NEUTRAL, ENTAILMENT, or CONTRADICTION."
+user:
+  general: "premise: {PREMISE_HERE}, hypothesis: {HYPOTHESIS_HERE}."
+  json_mode: "Generate the classification result in JSON with the key: 'result': str (NEUTRAL, ENTAILMENT, or CONTRADICTION)"
+  few: "USER: premise: {PREMISE_1}, hypothesis: {HYPOTHESIS_1}.\nMODEL: {RESULT_1}\nUSER: premise: {PREMISE_2}, hypothesis: {HYPOTHESIS_2}.\nMODEL: {RESULT_2}\nUSER: premise: {PREMISE_3}, hypothesis: {HYPOTHESIS_3}.\nMODEL:"
+mutual:
+  few_hint: "Please first check the following examples."
