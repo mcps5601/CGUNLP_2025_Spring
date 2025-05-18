@@ -20,7 +20,7 @@ This repository is the course materials for *Natural Language Processing and App
 | 11 | Hugging Face Tutorial (II) | [`.pdf`](./slides/huggingface2_0428.pdf) | [`GPT2 (PyTorch)`](./code/gpt2_summarization.ipynb) [`T5 (Trainer)`](./code/t5_summarization.ipynb) |[`Slido`](https://app.sli.do/event/mhd9ZJzYqE2qMhyv5wXb6P) | [`Video1`](https://youtu.be/adjCWy8QmSk) [`Video2`](https://youtu.be/NpwHDmVzgRs) [`Video3`](https://youtu.be/5jRPIF6WOG8) | [`Quiz`](./quizzes/w11.md)  |
 | 12 | Parameter-Efficient Fine-Tuning (PEFT) |  [`.pdf`](./slides/PEFT_0505.pdf) [`.pptx`](./slides/PEFT_0505.pptx) | | [`Slido`](https://app.sli.do/event/uebZM57bc74fCbbPFnSKvn) | [`Video1`](https://youtu.be/7LoYubsEw_o) [`Video2`](https://youtu.be/qlGyqz0bu3c) [`Video3`](https://youtu.be/qHezpgKipS8) | [`HW4 Link`](https://docs.google.com/presentation/d/14j1Hm9P5wStTX_tDqG5akDFrn1nVtK6MhUURClPBaoA/edit?usp=sharing) | 
 | 13 | Modern NLP (1) | [`.pdf`](./slides/llama2_0512.pdf) [`.pptx`](./slides/llama2_0512.pptx) [`GCloud`](./slides/google_vertex.pptx)| [`LLM API`](./code/llm_api.ipynb) | [`Slido`](https://app.sli.do/event/kSRybBp3kUawMk1Yew1eim) |
-| 14 | 檢索式擴增生成 (RAG) | [`.pdf`](./slides/rag_0519.pdf) [`.pptx`](./slides/rag_0519.pptx) | | [`Slido`](https://app.sli.do/event/eijnAJhUSxsduzmdJXvxma) |
+| 14 | 檢索式擴增生成 (RAG) | [`.pdf`](./slides/rag_0519.pdf) [`.pptx`](./slides/rag_0519.pptx) | [`RAG`](./code/RAG_langchain.ipynb) | [`Slido`](https://app.sli.do/event/eijnAJhUSxsduzmdJXvxma) |
 
 ## 分組
 - [表單連結 (一組填寫一次)](https://docs.google.com/forms/d/e/1FAIpQLSf_T46q5aIUokf6e5m9EGnB6OWCoWA4UKDRQx4W14y0vog59g/viewform?usp=sharing)
