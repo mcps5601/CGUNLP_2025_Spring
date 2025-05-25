@@ -21,7 +21,7 @@ This repository is the course materials for *Natural Language Processing and App
 | 12 | Parameter-Efficient Fine-Tuning (PEFT) |  [`.pdf`](./slides/PEFT_0505.pdf) [`.pptx`](./slides/PEFT_0505.pptx) | | [`Slido`](https://app.sli.do/event/uebZM57bc74fCbbPFnSKvn) | [`Video1`](https://youtu.be/7LoYubsEw_o) [`Video2`](https://youtu.be/qlGyqz0bu3c) [`Video3`](https://youtu.be/qHezpgKipS8) | [`HW4 Link`](https://docs.google.com/presentation/d/14j1Hm9P5wStTX_tDqG5akDFrn1nVtK6MhUURClPBaoA/edit?usp=sharing) | 
 | 13 | Modern NLP (1) | [`.pdf`](./slides/llama2_0512.pdf) [`.pptx`](./slides/llama2_0512.pptx) [`GCloud`](./slides/google_vertex.pptx)| [`LLM API`](./code/llm_api.ipynb) | [`Slido`](https://app.sli.do/event/kSRybBp3kUawMk1Yew1eim) | [`Announcement`](https://youtu.be/1n6sw7eXKAE) [`safe_llm`](https://youtu.be/Aop7eOutJDw) [`LLM API`](https://youtu.be/d-CeuU7kIwU) |
 | 14 | 檢索式擴增生成 (RAG) | [`.pdf`](./slides/rag_0519.pdf) [`.pptx`](./slides/rag_0519.pptx) | [`RAG`](./code/RAG_langchain.ipynb) | [`Slido`](https://app.sli.do/event/eijnAJhUSxsduzmdJXvxma) |
-| 15 | 生成式驗證方法 |  | | [`Slido`](https://app.sli.do/event/2cKxaQaGAwZDjNV2V2QLP2) |
+| 15 | 生成式驗證方法 | [`.pdf`](./slides/NLG_evaluations_learning_based.pdf) [`.pptx`](./slides/NLG_evaluations_learning_based.pptx) | | [`Slido`](https://app.sli.do/event/2cKxaQaGAwZDjNV2V2QLP2) |
 
 ## 分組
 - [表單連結 (一組填寫一次)](https://docs.google.com/forms/d/e/1FAIpQLSf_T46q5aIUokf6e5m9EGnB6OWCoWA4UKDRQx4W14y0vog59g/viewform?usp=sharing)
